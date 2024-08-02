@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rokto/static/css/main.f855e6bc.css",
+    "main.js": "/rokto/static/js/main.b935e1ef.js",
+    "static/js/453.419a5d54.chunk.js": "/rokto/static/js/453.419a5d54.chunk.js",
+    "index.html": "/rokto/index.html",
+    "main.f855e6bc.css.map": "/rokto/static/css/main.f855e6bc.css.map",
+    "main.b935e1ef.js.map": "/rokto/static/js/main.b935e1ef.js.map",
+    "453.419a5d54.chunk.js.map": "/rokto/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b935e1ef.js"
+  ]
+}
